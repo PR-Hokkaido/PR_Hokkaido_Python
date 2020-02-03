@@ -1,2 +1,3 @@
 # PR_Hokkaido_Python
-python
+打音データをPythonで可視化するモジュールや各種ユーティーリティを作成した。
+
