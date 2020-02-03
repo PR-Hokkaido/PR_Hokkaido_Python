@@ -5,7 +5,9 @@
 
 実行環境へは以下のコマンドで前提ライブラリをインストールします。
 
-# pip install librosa
-# pip install 
+```
+pip install librosa
+pip install 
+```
 
 実行は基本ローカルPCで実行する用途となっております。
