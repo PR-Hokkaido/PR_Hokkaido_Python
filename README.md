@@ -7,7 +7,7 @@
 
 ```
 pip install librosa
-pip install 
+pip install PIL
 ```
 
 実行は基本ローカルPCで実行する用途となっております。
