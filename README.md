@@ -13,5 +13,5 @@ pip install AudioSegment
 
 実行は基本ローカルPCで実行する用途となっております。
 
-jupyter notebook形式のサンプルと実行pythonコードを配置しております。
+jupyter notebook形式のサンプルと実行pythonコードを配置しております。  
 実行pythonコードは中のデータのパス指定部分を書き換えて使用してください。
