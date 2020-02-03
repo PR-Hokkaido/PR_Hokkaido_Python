@@ -8,7 +8,7 @@
 ```
 pip install librosa
 pip install PIL
-pip install AudioSegment
+pip install pydub
 ```
 
 実行は基本ローカルPCで実行する用途となっております。
